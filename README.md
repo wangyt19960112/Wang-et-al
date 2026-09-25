@@ -67,18 +67,7 @@ The analysis consists of the following main steps:
 ### Figure 1
 
 Run:
-`NT_Xue.r`
-`NT_Anand.r`
-`NT_Sanaki-Matsumiya.r`
-`SM_Yamanaka.r`
-`SM_Sanaki-Matsumiya.r`
-`SM_Miao.r`
-`SM_Yaman.r`
-`TK_Rito.r`
-`TK_Gribaudo.r`
-`TK_Makwana.r`
-`TK_Sanaki-Matsumiya.r`
-`TK_Hamazaki.r`
+`all_mapping.r`
 
 ### Figure 2
 
