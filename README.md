@@ -79,7 +79,18 @@ Run:
 
 Run:
 
-`velocity_fig.py`
+`NT_Xue.py`
+`NT_Anand.py`
+`NT_Sanaki-Matsumiya.py`
+`SM_Yamanaka.py`
+`SM_Sanaki-Matsumiya.py`
+`SM_Miao.py`
+`TK_Rito.py`
+`TK_Gribaudo.py`
+`TK_Makwana.py`
+`TK_Sanaki-Matsumiya.py`
+`TK_Hamazaki.py`
+
 
 ### Figure 4
 Multivariate_regression.py
